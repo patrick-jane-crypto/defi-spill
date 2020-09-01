@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to DeFi Spill!
 
 ## WTF is this website
 
