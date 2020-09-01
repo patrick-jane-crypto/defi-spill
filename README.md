@@ -1,4 +1,4 @@
-# Welcome to DeFi Spill
+# Welcome
 
 ## WTF is this website
 
@@ -11,3 +11,4 @@ Again, this website is meant to be updated as fast as possible. As such, it won'
 ## Can I contribute?
 
 Of fucking course! In fact, please do, I'm just one guy. [Here](https://github.com/patrick-jane-crypto/defi-spill) you can find the Github repo. Just submit a PR!
+

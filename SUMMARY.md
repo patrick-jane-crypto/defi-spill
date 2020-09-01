@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [yearn](yearn/README.md)
-  * [Yearn Strategies](yearn/yearn-strategies-explained.md)
+* [Welcome](README.md)
+* [Yearn Finance](yearn-finance/README.md)
+  * [Yearn Strategies](yearn-finance/yearn-strategies-explained.md)
+
